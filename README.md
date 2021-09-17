@@ -1,7 +1,7 @@
 Coverage: 34%
 # Project Title
 
-One Paragraph of project description goes here
+Inventory-Management-System is a Java program using MySQL in backend. This project is done as part of the QA Academy and Accenture Salesforce Training
 
 ## Getting Started
 
@@ -9,29 +9,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
+To set dev env, clone master branch of repo 
+download zip file
+in git bash, connect with java
 
 ## Running the tests
 
